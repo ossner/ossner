@@ -44,3 +44,6 @@ Here are some ideas to get you started:
 ### 🎷 CI/CD
 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+[![Sebastian Oßner's github stats](https://github-readme-stats.vercel.app/api?username=ossner&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
