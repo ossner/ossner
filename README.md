@@ -1,1 +1,1 @@
-### Hi there 👋 I build lots of stuff that's sometimes only kinda bad
+### I build lots of stuff that's sometimes only kinda bad
